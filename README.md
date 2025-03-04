@@ -53,6 +53,6 @@ Primero, clona el repositorio en tu máquina local:
 
 ```bash
 luego de clonar el repositorio desde bash debera:
-cd sansberro-a7d309
+cd ensolvers-prueba
 ./deploylocal.sh
 
